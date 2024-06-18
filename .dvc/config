@@ -1,0 +1,8 @@
+[core]
+    remote = minio
+['remote "minio"']
+    url = s3://mlops-lazada
+    endpointurl = https://localhost:9000
+    access_key_id = vbp5KiNpQgRpuo0NsEX2
+    secret_access_key = n5ekBbXcmtUd96G7EOY3xjfSpCRQ5cQqeKE1ijR8
+    ssl_verify = False
