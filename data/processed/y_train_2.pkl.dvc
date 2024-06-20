@@ -1,0 +1,5 @@
+outs:
+- md5: b1d48faa56e7001ac7bb041ba8df0bad
+  size: 662089
+  hash: md5
+  path: y_train_2.pkl

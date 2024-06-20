@@ -1,0 +1,5 @@
+outs:
+- md5: 63219602b42948d24567d61c35248d38
+  size: 2055624
+  hash: md5
+  path: y_test_1.pkl

@@ -1,0 +1,5 @@
+outs:
+- md5: 260e6ab9f1062d02c6fa56920fa22a87
+  size: 12165003
+  hash: md5
+  path: x_test_vec_1.pkl

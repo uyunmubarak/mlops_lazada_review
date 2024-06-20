@@ -1,0 +1,5 @@
+outs:
+- md5: 7604a5c06508a703d38dcf13454b3ecc
+  size: 3089867
+  hash: md5
+  path: x_train_vec_1.pkl
